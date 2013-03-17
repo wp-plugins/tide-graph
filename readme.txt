@@ -3,7 +3,7 @@ Contributors: bryanaamot
 Donate link: http://www.tidegraph.com/
 Tags: tide,tides
 Requires at least: 2.7.1
-Tested up to: 2.7.1
+Tested up to: 3.5.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -20,7 +20,7 @@ To install Tide Graph,
 
 1. Upload `tide-graph.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+1. Go to Appearance->Widgets and drag the Tide Graph widget into the main sidebar.
 
 == Frequently Asked Questions ==
 
